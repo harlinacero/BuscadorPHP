@@ -1,0 +1,3 @@
+Creado por Harlin Acero
+Next U
+url: https://github.com/harlinacero/BuscadorPHP
